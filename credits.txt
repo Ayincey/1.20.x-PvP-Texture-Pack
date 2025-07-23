@@ -1,0 +1,13 @@
+USE THIS PACK WITH BARE BONES 1.21 - https://modrinth.com/resourcepack/bare-bones
+
+ALL original Barebones textures by RobotPants
+
+Barebones edits by TheobaldTheBird
+
+No Messy Eating/3d Ladder/Wind burst particles by HerobaneNair
+
+No Block Break Particles by NeoNyaa
+
+Unobtrusive Weather by bom
+
+Visible Powdered Snow by masterofdeath0387
